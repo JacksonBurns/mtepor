@@ -1,5 +1,12 @@
 cff-version: 1.2.0
 message: "Please include the following citations if RMG, RMG-database, and/or Arkane were used for an academic study."
+authors:
+  - family-names: Goldsmith
+    given-names: C.F.
+  - family-names: West
+    given-names: R.H.
+  - family-names: Green
+    given-names: W.H.
 references:
   - type: article 
     authors:
