@@ -1,4 +1,4 @@
-cff-version: 1.0.0
+cff-version: 1.2.0
 message: "Please include the following citations if RMG, RMG-database, and/or Arkane were used for an academic study."
 references:
   - type: article 
@@ -90,3 +90,4 @@ references:
     year: 2022
     journal: Journal of Chemical Information and Modeling
     doi: 10.1021/acs.jcim.2c00965
+title: "ReactionMechanismGenerator"
